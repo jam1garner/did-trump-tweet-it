@@ -19,3 +19,5 @@ Requirements:
 * numpy
 * scipy
 * Python 3
+
+Technical write up: https://medium.com/@jam1garner/did-trump-tweet-it-15c33e5e6b07
